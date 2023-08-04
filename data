@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "created_at": "2023-08-01T00:00:00Z",
+      "metric": "bug",
+      "value": 2
+    },
+    {
+      "created_at": "2023-08-02T00:00:00Z",
+      "metric": "bug",
+      "value": 5
+    },
+    {
+      "created_at": "2023-08-03T00:00:00Z",
+      "metric": "bug",
+      "value": 1
+    }
+  ]
+}
